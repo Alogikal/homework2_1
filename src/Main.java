@@ -50,7 +50,5 @@ public class Main {
                 ("Количество часов на 174 работника = " + hoursPerWorker2 + "\n")
 
         );
-
-
     }
 }
